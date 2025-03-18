@@ -1,3 +1,5 @@
+_werkt niet op telefoon/tablet_
+
 https://sherlockjwatson.github.io/puzzletest
 
 Bovenstaande link begeleidt je naar de puzzle
